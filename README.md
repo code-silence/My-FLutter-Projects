@@ -19,12 +19,6 @@ Sure bro! Here’s a professional and portfolio-ready README for your **Roxy AI 
 
 ---
 
-## 📱 Screenshots
-
-*(Add your app screenshots here for portfolio presentation)*
-
----
-
 ## ⚡ Getting Started
 
 ### Prerequisites
